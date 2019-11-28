@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Careers on Actiotech | Insights made Easy</title>
-    <link>https://actiotech.com/career/</link>
+    <link>http://actiotech.com/career/</link>
     <description>Recent content in Careers on Actiotech | Insights made Easy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 09:51:57 +0600</lastBuildDate>
     
-	<atom:link href="https://actiotech.com/career/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://actiotech.com/career/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Engineer</title>
-      <link>https://actiotech.com/career/3.data-engineer/</link>
+      <link>http://actiotech.com/career/3.data-engineer/</link>
       <pubDate>Sun, 10 Nov 2019 09:51:57 +0600</pubDate>
       
-      <guid>https://actiotech.com/career/3.data-engineer/</guid>
+      <guid>http://actiotech.com/career/3.data-engineer/</guid>
       <description>Jobs Description We are looking for top engineers who want to apply what they have learned in their Masters or PhD programs and their hands-on engineering, to tackle challenging problems and, who have the passion and capacity to quickly learn new skills.</description>
     </item>
     
     <item>
       <title>DevOps Engineer</title>
-      <link>https://actiotech.com/career/2.devops-engineer/</link>
+      <link>http://actiotech.com/career/2.devops-engineer/</link>
       <pubDate>Sun, 10 Nov 2019 09:51:57 +0600</pubDate>
       
-      <guid>https://actiotech.com/career/2.devops-engineer/</guid>
+      <guid>http://actiotech.com/career/2.devops-engineer/</guid>
       <description>Jobs Description We’re currently looking for someone who’s eager to lead in transforming the way we handle our DevOps.</description>
     </item>
     
     <item>
       <title>Frontend Engineer</title>
-      <link>https://actiotech.com/career/1.front-end-developer/</link>
+      <link>http://actiotech.com/career/1.front-end-developer/</link>
       <pubDate>Sun, 10 Nov 2019 09:51:57 +0600</pubDate>
       
-      <guid>https://actiotech.com/career/1.front-end-developer/</guid>
+      <guid>http://actiotech.com/career/1.front-end-developer/</guid>
       <description>Jobs Description We’re looking for a developer who loves to code JavaScript HTML and CSS, and who also has a good feeling for modern web design.</description>
     </item>
     

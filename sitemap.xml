@@ -3,43 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://actiotech.com/</loc>
+    <loc>http://actiotech.com/</loc>
     <lastmod>2019-11-10T09:51:57+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://actiotech.com/career/3.data-engineer/</loc>
+    <loc>http://actiotech.com/career/3.data-engineer/</loc>
     <lastmod>2019-11-10T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://actiotech.com/career/2.devops-engineer/</loc>
+    <loc>http://actiotech.com/career/2.devops-engineer/</loc>
     <lastmod>2019-11-10T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://actiotech.com/career/1.front-end-developer/</loc>
+    <loc>http://actiotech.com/career/1.front-end-developer/</loc>
     <lastmod>2019-11-10T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://actiotech.com/about/</loc>
+    <loc>http://actiotech.com/about/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://actiotech.com/career/</loc>
+    <loc>http://actiotech.com/blog/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://actiotech.com/contact/</loc>
+    <loc>http://actiotech.com/career/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://actiotech.com/culture/</loc>
+    <loc>http://actiotech.com/contact/</loc>
+    <lastmod>2019-04-10T09:51:57+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://actiotech.com/culture/</loc>
     <lastmod>2019-04-10T09:51:57+06:00</lastmod>
   </url>
     
