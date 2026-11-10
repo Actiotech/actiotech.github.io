@@ -86,13 +86,6 @@
       <description></description>
     </item>
     <item>
-      <title>Search Result</title>
-      <link>https://actiotech.com/search/</link>
-      <pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate>
-      <guid>https://actiotech.com/search/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>A practical approach to application security</title>
       <link>https://actiotech.com/security/methodology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -100,17 +93,24 @@
       <description>&lt;h2 id=&#34;start-with-a-shared-scope&#34;&gt;Start with a shared scope&lt;/h2&gt;&#xA;&lt;p&gt;An assessment begins with the application and the question you need answered. Agree the assets, environments, roles, integrations, and business journeys in scope. Identify third-party dependencies, exclusions, and any constraints that affect coverage.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About Us</title>
+      <title>About Actiotech</title>
       <link>https://actiotech.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://actiotech.com/about/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;software-that-moves-business-forward&#34;&gt;Software that moves business forward.&lt;/h2&gt;&#xA;&lt;p&gt;Actiotech brings together software engineering, Atlassian app development, and application security services. We work with teams building applications, improving workflows, and assessing the security of their systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Culture</title>
       <link>https://actiotech.com/culture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://actiotech.com/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search insights</title>
+      <link>https://actiotech.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://actiotech.com/search/</guid>
       <description></description>
     </item>
   </channel>

@@ -40,3 +40,25 @@
     selectFilter('all');
   }
 })();
+
+(() => {
+  const form = document.querySelector('.insight-search');
+  if (!form) return;
+  const input = form.querySelector('input');
+  const results = Array.from(document.querySelectorAll('[data-search-text]'));
+  const count = document.querySelector('#search-count');
+  const query = new URLSearchParams(location.search).get('q') || new URLSearchParams(location.search).get('s') || '';
+  input.value = query;
+  function filter() {
+    const words = input.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    let visible = 0;
+    results.forEach(item => {
+      item.hidden = !words.every(word => item.dataset.searchText.includes(word));
+      if (!item.hidden) visible++;
+    });
+    count.textContent = visible ? `${visible} ${visible === 1 ? 'article' : 'articles'}` : 'No articles match that search. Try another topic.';
+  }
+  form.addEventListener('submit', event => { event.preventDefault(); filter(); });
+  input.addEventListener('input', filter);
+  filter();
+})();
