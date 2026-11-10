@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forge on Actiotech | Software engineering &amp; application security</title>
+    <link>https://actiotech.com/tags/forge/</link>
+    <description>Recent content in Forge on Actiotech | Software engineering &amp; application security</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0530</lastBuildDate>
+    <atom:link href="https://actiotech.com/tags/forge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking permissions in Forge: when to use asUser and asApp</title>
+      <link>https://actiotech.com/blog/forge-authorization-asuser-asapp/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/blog/forge-authorization-asuser-asapp/</guid>
+      <description>&lt;p&gt;A Forge app works perfectly when you test it as a Jira administrator. You switch to an ordinary project member, try the same action, and get a permission error. It can be tempting to change the API call from &lt;code&gt;asUser()&lt;/code&gt; to &lt;code&gt;asApp()&lt;/code&gt; and move on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testing an AI assistant inside a Jira app</title>
+      <link>https://actiotech.com/blog/testing-ai-features-atlassian-apps/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/blog/testing-ai-features-atlassian-apps/</guid>
+      <description>&lt;p&gt;Imagine an assistant that summarises a Jira project and offers to create follow-up tasks. In a demo, it reads the issues, writes a helpful summary, and creates a task when asked. Everything appears to work.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

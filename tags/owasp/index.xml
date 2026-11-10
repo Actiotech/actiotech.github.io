@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OWASP on Actiotech | Software engineering &amp; application security</title>
+    <link>https://actiotech.com/tags/owasp/</link>
+    <description>Recent content in OWASP on Actiotech | Software engineering &amp; application security</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0530</lastBuildDate>
+    <atom:link href="https://actiotech.com/tags/owasp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What does an OWASP-based penetration test actually cover?</title>
+      <link>https://actiotech.com/blog/owasp-from-top-ten-to-test-plan/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/blog/owasp-from-top-ten-to-test-plan/</guid>
+      <description>&lt;p&gt;“We need an OWASP test before launch.” It&amp;rsquo;s a reasonable request, but the next conversation needs to be about the application: which users it serves, what they can do, and what would go wrong if a control failed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testing an AI assistant inside a Jira app</title>
+      <link>https://actiotech.com/blog/testing-ai-features-atlassian-apps/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/blog/testing-ai-features-atlassian-apps/</guid>
+      <description>&lt;p&gt;Imagine an assistant that summarises a Jira project and offers to create follow-up tasks. In a demo, it reads the issues, writes a helpful summary, and creates a task when asked. Everything appears to work.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

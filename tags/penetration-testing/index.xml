@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penetration Testing on Actiotech | Software engineering &amp; application security</title>
+    <link>https://actiotech.com/tags/penetration-testing/</link>
+    <description>Recent content in Penetration Testing on Actiotech | Software engineering &amp; application security</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0530</lastBuildDate>
+    <atom:link href="https://actiotech.com/tags/penetration-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What does an OWASP-based penetration test actually cover?</title>
+      <link>https://actiotech.com/blog/owasp-from-top-ten-to-test-plan/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/blog/owasp-from-top-ten-to-test-plan/</guid>
+      <description>&lt;p&gt;“We need an OWASP test before launch.” It&amp;rsquo;s a reasonable request, but the next conversation needs to be about the application: which users it serves, what they can do, and what would go wrong if a control failed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using AI during a penetration test</title>
+      <link>https://actiotech.com/blog/ai-assisted-pentesting-human-validation/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/blog/ai-assisted-pentesting-human-validation/</guid>
+      <description>&lt;p&gt;An AI tool reads an API specification and suggests a possible access-control problem. That might be a useful lead. Before it belongs in a penetration test report, someone needs to establish whether the endpoint exists in the tested version, whether the suspected behaviour is reachable, and what actually happens when it is tested.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

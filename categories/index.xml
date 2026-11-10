@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Actiotech | Insights made Easy</title><link>https://actiotech.com/categories/</link><description>Recent content in Categories on Actiotech | Insights made Easy</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2019 09:51:57 +0600</lastBuildDate><atom:link href="https://actiotech.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Afiliated Marketing</title><link>https://actiotech.com/categories/afiliated-marketing/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/categories/afiliated-marketing/</guid><description/></item><item><title>Development Maping</title><link>https://actiotech.com/categories/development-maping/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/categories/development-maping/</guid><description/></item><item><title>Investment Planning</title><link>https://actiotech.com/categories/investment-planning/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/categories/investment-planning/</guid><description/></item><item><title>Market Strategy</title><link>https://actiotech.com/categories/market-strategy/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/categories/market-strategy/</guid><description/></item><item><title>Targated Marketing</title><link>https://actiotech.com/categories/targated-marketing/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/categories/targated-marketing/</guid><description/></item><item><title>Valuable Idea</title><link>https://actiotech.com/categories/valuable-idea/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/categories/valuable-idea/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Actiotech | Software engineering &amp; application security</title>
+    <link>https://actiotech.com/categories/</link>
+    <description>Recent content in Categories on Actiotech | Software engineering &amp; application security</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0530</lastBuildDate>
+    <atom:link href="https://actiotech.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Security</title>
+      <link>https://actiotech.com/categories/ai-security/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/categories/ai-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Application Security</title>
+      <link>https://actiotech.com/categories/application-security/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/categories/application-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atlassian Forge</title>
+      <link>https://actiotech.com/categories/atlassian-forge/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/categories/atlassian-forge/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

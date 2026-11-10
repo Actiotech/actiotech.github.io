@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forge Remote on Actiotech | Software engineering &amp; application security</title>
+    <link>https://actiotech.com/tags/forge-remote/</link>
+    <description>Recent content in Forge Remote on Actiotech | Software engineering &amp; application security</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0530</lastBuildDate>
+    <atom:link href="https://actiotech.com/tags/forge-remote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What to check before putting a Forge Remote backend into production</title>
+      <link>https://actiotech.com/blog/secure-forge-remote-integrations/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/blog/secure-forge-remote-integrations/</guid>
+      <description>&lt;p&gt;Suppose two customers use your reporting app. Both have a report numbered &lt;code&gt;42&lt;/code&gt;. The database keeps their records separate, but the remote backend caches a generated report under the key &lt;code&gt;report:42&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

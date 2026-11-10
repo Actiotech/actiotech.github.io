@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application Security on Actiotech | Software engineering &amp; application security</title>
+    <link>https://actiotech.com/tags/application-security/</link>
+    <description>Recent content in Application Security on Actiotech | Software engineering &amp; application security</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0530</lastBuildDate>
+    <atom:link href="https://actiotech.com/tags/application-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking permissions in Forge: when to use asUser and asApp</title>
+      <link>https://actiotech.com/blog/forge-authorization-asuser-asapp/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/blog/forge-authorization-asuser-asapp/</guid>
+      <description>&lt;p&gt;A Forge app works perfectly when you test it as a Jira administrator. You switch to an ordinary project member, try the same action, and get a permission error. It can be tempting to change the API call from &lt;code&gt;asUser()&lt;/code&gt; to &lt;code&gt;asApp()&lt;/code&gt; and move on.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

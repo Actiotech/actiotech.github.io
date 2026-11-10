@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security services on Actiotech | Software engineering &amp; application security</title>
+    <link>https://actiotech.com/security/</link>
+    <description>Recent content in Security services on Actiotech | Software engineering &amp; application security</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://actiotech.com/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A practical approach to application security</title>
+      <link>https://actiotech.com/security/methodology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://actiotech.com/security/methodology/</guid>
+      <description>&lt;h2 id=&#34;start-with-a-shared-scope&#34;&gt;Start with a shared scope&lt;/h2&gt;&#xA;&lt;p&gt;An assessment begins with the application and the question you need answered. Agree the assets, environments, roles, integrations, and business journeys in scope. Identify third-party dependencies, exclusions, and any constraints that affect coverage.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

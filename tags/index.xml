@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Actiotech | Insights made Easy</title><link>https://actiotech.com/tags/</link><description>Recent content in Tags on Actiotech | Insights made Easy</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2019 09:51:57 +0600</lastBuildDate><atom:link href="https://actiotech.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Advice</title><link>https://actiotech.com/tags/advice/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/tags/advice/</guid><description/></item><item><title>Business</title><link>https://actiotech.com/tags/business/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/tags/business/</guid><description/></item><item><title>Consultancy</title><link>https://actiotech.com/tags/consultancy/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/tags/consultancy/</guid><description/></item><item><title>Finance</title><link>https://actiotech.com/tags/finance/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/tags/finance/</guid><description/></item><item><title>Market Analysis</title><link>https://actiotech.com/tags/market-analysis/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/tags/market-analysis/</guid><description/></item><item><title>Marketing</title><link>https://actiotech.com/tags/marketing/</link><pubDate>Wed, 10 Apr 2019 09:51:57 +0600</pubDate><guid>https://actiotech.com/tags/marketing/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Actiotech | Software engineering &amp; application security</title>
+    <link>https://actiotech.com/tags/</link>
+    <description>Recent content in Tags on Actiotech | Software engineering &amp; application security</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0530</lastBuildDate>
+    <atom:link href="https://actiotech.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://actiotech.com/tags/ai/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Application Security</title>
+      <link>https://actiotech.com/tags/application-security/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/tags/application-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forge</title>
+      <link>https://actiotech.com/tags/forge/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/tags/forge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forge Remote</title>
+      <link>https://actiotech.com/tags/forge-remote/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/tags/forge-remote/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OWASP</title>
+      <link>https://actiotech.com/tags/owasp/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/tags/owasp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Penetration Testing</title>
+      <link>https://actiotech.com/tags/penetration-testing/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/tags/penetration-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security Architecture</title>
+      <link>https://actiotech.com/tags/security-architecture/</link>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0530</pubDate>
+      <guid>https://actiotech.com/tags/security-architecture/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
